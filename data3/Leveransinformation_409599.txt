@@ -1,0 +1,21 @@
+﻿Information om beställning 
+-----------------------------------------
+Namn på beställning: test_GeoPackage_409599.zip
+Beställningsdatum: 2023-11-25 17:08
+Betraktelsedatum: 2023-11-25
+Format: GeoPackage
+Koordinatsystem: EPSG:3006 SWEREF-99-TM
+
+Område:
+Sverige
+
+Dataprodukter 
+-----------------------------------------
+Bandel
+Hållplats/Hållställe/övr plats
+
+Övrig information 
+-----------------------------------------
+
+
+
