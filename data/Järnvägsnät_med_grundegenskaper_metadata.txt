@@ -1,8 +1,0 @@
-Förändringslogg:
-2018-12-29: Attribut för TEN-klass och TEN-kategori är borttagna eftersom att de är borttagna ur Trafikverkets grunddatabas.
-
-Metadata i Geodataportalen:
-https://www.geodata.se/geodataportalen/GetMetaDataById?id=544b9f0f-d1ad-4b01-b9ac-7a6bb864ebd4
-
-Dataproduktspecifikation:
-https://www.trafikverket.se/jarnvagsdata/
