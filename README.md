@@ -1,9 +1,9 @@
 # swedish-railway-system
 A python project part of a Linear Algebra course at KTH. 
 
-Innehåll i de olika datasetten:
+Contents of the different datasets:
 
-1) data.gpkg: Information kring vilka stationer som har förbindelser/kopplingar mellan varandra med alla använda och oanvända stationer idag.
-Under #Load the data kommentaren konverteras dessa punkter till en Gram-matris.
+data.gpkg: Information about which stations have connections/links to each other, including all currently used and unused stations. Under the comment #Load the data, these points are converted into a Gram matrix.
 
-2) stations.gpkg: Information om förbindelser/kopplingar som tidigare fast utan oänvända stationer - alltså endast stationer som passagerare kan stiga av och på.
+stations.gpkg: Information about connections/links as they were previously, but without unused stations - in other words, only stations where passengers can get on and off.
+
